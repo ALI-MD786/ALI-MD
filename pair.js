@@ -68,7 +68,7 @@ router.get('/', async (req, res) => {
                             `▸ Report bugs on GitHub\n\n` +
                             `_Powered by ALI_MD\n\n` +
                             `🔗 *Useful Links:*\n` +
-                            `▸ GitHub: https://github.com/ALI-MD786/ALI_MD\n` +
+                            `▸ GitHub: https://github.com/ALI-MD786/ALI-MD\n` +
                             `▸ https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306`,
                         contextInfo: {
                             mentionedJid: [sock.user.id],
